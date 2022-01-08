@@ -1,8 +1,8 @@
 # freakvga
 
-Year: 1998
-OS: *ix
-Source: C
+* Year: 1998
+* OS: *ix
+* Source: C
 
 Old non-uft8 x11 font created using one of my vga textmode fonts.
 
